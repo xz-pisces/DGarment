@@ -1,0 +1,3 @@
+opencv-python==3.4.2.17
+chumpy==0.70
+tensorflow_graphics-gpu==1.0.0
