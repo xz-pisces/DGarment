@@ -63,7 +63,7 @@ Please cite the following paper if it helps your research:
     @article{li2023tcsvt,
       author = {Xiongzheng Li and Jinsong Zhang and Yu-Kun Lai and Jingyu Yang and Kun Li},
       title = {High-Quality Animatable Dynamic Garment Reconstruction from Monocular Videos},
-      journal = {IEEE Transactions on Circuits and Systems for Video Technology}
+      journal = {IEEE Transactions on Circuits and Systems for Video Technology},
       year={2023},
     }
 
